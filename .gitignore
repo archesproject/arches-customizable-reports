@@ -1,0 +1,22 @@
+*.pyc
+*.log
+node_modules
+coverage/
+arches_customizable_reports/logs
+arches_customizable_reports/export_deliverables
+arches_customizable_reports/cantaloupe/*
+arches_customizable_reports/staticfiles
+arches_customizable_reports/media/packages
+arches_customizable_reports/media/build/
+arches_customizable_reports/uploadedfiles/*
+arches_customizable_reports/settings_local.py
+webpack-stats.json
+.vscode/
+*.egg-info
+.DS_STORE
+CACHE
+frontend_configuration
+
+# Packaging
+build/
+dist/
